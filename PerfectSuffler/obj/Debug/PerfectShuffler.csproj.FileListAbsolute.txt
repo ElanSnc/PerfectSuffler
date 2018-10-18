@@ -1,0 +1,9 @@
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\bin\Debug\PerfectSuffler.exe.config
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\bin\Debug\PerfectSuffler.exe
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\bin\Debug\PerfectSuffler.pdb
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectShuffler.csprojAssemblyReference.cache
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectSuffler.ErrorMessages.resources
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectShuffler.csproj.GenerateResource.cache
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectShuffler.csproj.CoreCompileInputs.cache
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectSuffler.exe
+C:\Users\Elan\source\repos\PerfectSuffler\PerfectSuffler\obj\Debug\PerfectSuffler.pdb
